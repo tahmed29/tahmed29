@@ -84,3 +84,13 @@ Computer Engineering Student | Software Developer | Toronto
 ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge)
 ![HCS12 Assembly](https://img.shields.io/badge/HCS12_Assembly-455A64?style=for-the-badge)
+
+---
+
+## 🐍 GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahmed29/tahmed29/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tahmed29/tahmed29/output/github-snake.svg">
+  <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/tahmed29/tahmed29/output/github-snake.svg">
+</picture>
